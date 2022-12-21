@@ -1,0 +1,1 @@
+creo texto con echo y lo guardo en un archivo creado
