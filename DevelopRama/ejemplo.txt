@@ -1,1 +1,2 @@
 creo texto con echo y lo guardo en un archivo creado
+Modifico desde rempositorio remoto simulmado q es otro colaborador
