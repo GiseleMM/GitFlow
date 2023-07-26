@@ -1,5 +1,5 @@
 # GitFlow
-##Practica de ***git***.
+## Practica de ***git***.
 1. comados basicos de git
 2. trabajar con repo remoto
 
